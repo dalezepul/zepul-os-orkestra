@@ -1,0 +1,4 @@
+# K29: .bat/.cmd her klonda CRLF (cmd.exe etiket sorunu, DEVIR 6); core.autocrlf ayarına bağlı değil.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+panel/vendor/** -text

@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.key
+logs/*.jsonl
+logs/*.log
+.tmp/
+raporlar/log-raporu-*
+raporlar/github-takip-*
+.worktrees/
+
+# Claude Code geçici worktree klasörleri
+.claude/worktrees/

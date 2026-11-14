@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "strict": true,
+    "module": "nodenext",
+    "target": "es2023",
+    "allowImportingTsExtensions": true,
+    "allowJs": true,
+    "checkJs": false,
+    "types": ["node"],
+    "skipLibCheck": true
+  },
+  "include": ["sunucu/**/*.ts", "test/**/*.ts"]
+}

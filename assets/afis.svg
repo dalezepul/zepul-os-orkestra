@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Zepul OS: Claude Code ajanları için orkestra">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1b2540"/></linearGradient>
+<radialGradient id="r" cx=".12" cy=".5" r=".45"><stop offset="0" stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient></defs>
+<rect width="1000" height="200" rx="20" fill="url(#g)"/><rect width="1000" height="200" rx="20" fill="url(#r)"/>
+<g transform="translate(110 100) scale(1.9)"><circle cx="0" cy="-18" r="9" fill="#a78bfa"/><circle cx="-20" cy="14" r="7" fill="#a78bfa" fill-opacity=".75"/><circle cx="0" cy="18" r="7" fill="#a78bfa" fill-opacity=".75"/><circle cx="20" cy="14" r="7" fill="#a78bfa" fill-opacity=".75"/><path d="M0 -9 L-18 8 M0 -9 V11 M0 -9 L18 8" stroke="#a78bfa" stroke-width="3"/><animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -2;0 0" dur="3s" repeatCount="indefinite"/></g>
+<text x="210" y="95" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#f1f5f9">Zepul OS</text>
+<text x="212" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#a9b8cc">Claude Code ajanları için orkestra</text>
+<rect x="212" y="158" width="80" height="5" rx="2.5" fill="#a78bfa"/>
+</svg>
